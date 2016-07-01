@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "^4.13.3"
+	"pdfjs-dist": "1.5.312"
   },
   "engines": {
     "node": "4.0.0"
